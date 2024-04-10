@@ -4,11 +4,11 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "php": "^7.4",
+        "php": "^7.4|^8.1",
         "ext-mbstring": "*",
         "ext-pdo": "*",
         "ext-odbc": "*",
-        "doctrine/dbal": "^2.12"
+        "doctrine/dbal": "^2.12|^3.5.1"
     },
     "autoload": {
         "psr-4": {
